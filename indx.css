@@ -62,10 +62,13 @@ button img{
         border-bottom-left-radius: 0 !important;
         border-bottom-right-radius: 0 !important;
     }
+   
+    
 }
 
 @media screen and (max-width:427px) {
     .whole{
         width: 80%;
     }
+
 }
